@@ -1,0 +1,10 @@
+{
+    "Type": "UseableItem",
+    "Id": "tclark5-useableitem-a",
+    "Name": "James's healing potion",
+    "Description": "A potion that can heal characters. It has a greenish color and smells like herbs.",
+    "Takeable": true,
+    "Moveable": true,
+    "AffectedItems": "characters",
+    "AffectedMethod": "heal"
+}
